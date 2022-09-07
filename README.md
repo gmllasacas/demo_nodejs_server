@@ -11,7 +11,7 @@ Objective: Create a web application using JavaScript
 
 Backend side of the project (In spanish)
 
-Frontend side of the project: [https://github.com/gmllasacas/exandal_oneui_vue](URL)
+[Frontend side of the project](https://github.com/gmllasacas/exandal_oneui_vue)
 
 ## Install
 
