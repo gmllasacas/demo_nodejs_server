@@ -10,7 +10,7 @@ Objective: Create a web application using JavaScript
 ## Node.js server with Express, Sequelize y MySQL 
 
 Backend side of the project (In spanish)
-[https://github.com/gmllasacas/exandal_oneui_vue](Frontend side of the project)
+[https://github.com/gmllasacas/exandal_oneui_vue](Frontend) side of the project
 
 ## Install
 
