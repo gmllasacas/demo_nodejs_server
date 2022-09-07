@@ -11,7 +11,7 @@ Objective: Create a web application using JavaScript
 
 Backend side of the project (In spanish)
 
-(Frontend side of the project)[https://github.com/gmllasacas/exandal_oneui_vue] 
+Frontend side of the project: [https://github.com/gmllasacas/exandal_oneui_vue](URL)
 
 ## Install
 
@@ -38,4 +38,4 @@ Finally, execute the script `script.sql` from root to populate the table 'produc
 
 The backend server should be running on:
 
-(http://localhost:3000/)[http://localhost:3000/]
+[http://localhost:3000/](http://localhost:3000/)
