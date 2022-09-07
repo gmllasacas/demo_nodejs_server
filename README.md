@@ -1,32 +1,40 @@
-# Node.js server with Express, Sequelize y MySQL 
+# Node.js and Vue.js demo
 
-Back-end del demo para Exandal
+Objective: Create a web application using JavaScript
 
-## Instalación
+    1. Enter new raw products
+    2. Enter new products
+    3. Validation of the forms used
+    4. Reports
 
-Ejecutar el sgte. comando para instalar los modulos. 
+## Node.js server with Express, Sequelize y MySQL 
+
+Backend side of the project (In spanish)
+
+## Install
+
+Execute the command to install the required modules. 
 
 ```
 npm install
 ```
-Crear una base de datos MySQL con el nombre `exandal` y configurar los parámetros de conexion del
-archivo `app/config/db.config.js`
+Create a MySQL database named 'database' and modify the connection parameters on `app/config/db.config.js`
 
-Luego ejecutar el sgte. comando para levantar el servidor en el puerto 3000 y creará unas tablas definidas
+Then execute the command to start the server on the port 3000, also this create some tables
 
 ```
 node server.js
 ```
 
-Finalmente ejecutar el script `script.sql` del root para popular la tabla 'producto' y poder registrar las entregas
+Finally, execute the script `script.sql` from root to populate the table 'producto'
 
-// TODO 
+## TODO 
 
-Módulo de productos finales
+    4. Reports
 
-## Ejecución
+## Execution
 
-El servidor estará corriendo en la URL:
+The backend server should be running on:
 
 [http://localhost:3000/](http://localhost:3000/)
 
