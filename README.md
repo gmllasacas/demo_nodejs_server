@@ -38,6 +38,4 @@ Finally, execute the script `script.sql` from root to populate the table 'produc
 
 The backend server should be running on:
 
-[http://localhost:3000/](http://localhost:3000/)
-
-
+(http://localhost:3000/)[http://localhost:3000/]
